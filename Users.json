@@ -2,10 +2,22 @@
   "users": [
     {
       "username": "Admin",
-      "password": "$2a$10$76at6G7CIs6Bv95C5X.8Re9H.PeyVv6.Wf/C.4rL0T/Y6F6B5y.uG",
+      "password": "$2a$10$ywEk0TtRGGm0in0TCkIIlOnhDTrb9Vxfzwn8rtZb2UDMWmVKBsUNy",
       "subscription": "aimkill apk",
       "expiry_date": "2026-12-31",
-      "free_user": true
+      "free_user": true,
+      "blacklisted": false,
+      "cracker": false
+    },
+    {
+      "username": "PaidUser1",
+      "password": "$2a$10$ywEk0TtRGGm0in0TCkIIlOnhDTrb9Vxfzwn8rtZb2UDMWmVKBsUNy",
+      "subscription": "aimkill apk",
+      "expiry_date": "2026-06-01",
+      "free_user": false,
+      "blacklisted": false,
+      "cracker": false,
+      "device_id": ""
     }
   ]
 }
