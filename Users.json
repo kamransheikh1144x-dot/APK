@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "$2a$10$asdfghjklqwertyuiopzxcvbnm", 
+      "subscription": "aimkill apk",
+      "expiry_date": "2026-12-31",
+      "free_user": true
+    }
+  ]
+}
