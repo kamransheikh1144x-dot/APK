@@ -1,8 +1,8 @@
 {
   "users": [
     {
-      "username": "admin",
-      "password": "$2a$10$asdfghjklqwertyuiopzxcvbnm", 
+      "username": "Admin",
+      "password": "$2a$10$76at6G7CIs6Bv95C5X.8Re9H.PeyVv6.Wf/C.4rL0T/Y6F6B5y.uG",
       "subscription": "aimkill apk",
       "expiry_date": "2026-12-31",
       "free_user": true
